@@ -1,0 +1,1 @@
+-I"/workspace/ccs-games-rip/chocolate-doom/src/strife/.." -I"/workspace/ccs-games-rip/chocolate-doom/src/strife/../../win32" -I"/workspace/ccs-games-rip/chocolate-doom/build/src/strife/../.." -I"/workspace/ccs-games-rip/chocolate-doom/textscreen/."

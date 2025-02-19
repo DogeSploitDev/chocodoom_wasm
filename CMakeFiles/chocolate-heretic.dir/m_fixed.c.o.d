@@ -1,0 +1,24 @@
+src/CMakeFiles/chocolate-heretic.dir/m_fixed.c.o: \
+  /workspace/ccs-games-rip/chocolate-doom/src/m_fixed.c \
+  /workspace/ccs-games-rip/emsdk/upstream/emscripten/cache/sysroot/include/compat/stdlib.h \
+  /workspace/ccs-games-rip/emsdk/upstream/emscripten/cache/sysroot/include/stdlib.h \
+  /workspace/ccs-games-rip/emsdk/upstream/emscripten/cache/sysroot/include/features.h \
+  /workspace/ccs-games-rip/emsdk/upstream/emscripten/cache/sysroot/include/bits/alltypes.h \
+  /workspace/ccs-games-rip/emsdk/upstream/emscripten/cache/sysroot/include/alloca.h \
+  /workspace/ccs-games-rip/chocolate-doom/src/doomtype.h \
+  /workspace/ccs-games-rip/chocolate-doom/build/src/../config.h \
+  /workspace/ccs-games-rip/emsdk/upstream/emscripten/cache/sysroot/include/strings.h \
+  /workspace/ccs-games-rip/emsdk/upstream/lib/clang/21/include/inttypes.h \
+  /workspace/ccs-games-rip/emsdk/upstream/emscripten/cache/sysroot/include/inttypes.h \
+  /workspace/ccs-games-rip/emsdk/upstream/lib/clang/21/include/stdint.h \
+  /workspace/ccs-games-rip/emsdk/upstream/emscripten/cache/sysroot/include/stdint.h \
+  /workspace/ccs-games-rip/emsdk/upstream/emscripten/cache/sysroot/include/bits/stdint.h \
+  /workspace/ccs-games-rip/emsdk/upstream/lib/clang/21/include/stdbool.h \
+  /workspace/ccs-games-rip/emsdk/upstream/emscripten/cache/sysroot/include/stdbool.h \
+  /workspace/ccs-games-rip/emsdk/upstream/lib/clang/21/include/limits.h \
+  /workspace/ccs-games-rip/emsdk/upstream/emscripten/cache/sysroot/include/limits.h \
+  /workspace/ccs-games-rip/emsdk/upstream/emscripten/cache/sysroot/include/bits/limits.h \
+  /workspace/ccs-games-rip/chocolate-doom/src/i_system.h \
+  /workspace/ccs-games-rip/chocolate-doom/src/d_ticcmd.h \
+  /workspace/ccs-games-rip/chocolate-doom/src/d_event.h \
+  /workspace/ccs-games-rip/chocolate-doom/src/m_fixed.h

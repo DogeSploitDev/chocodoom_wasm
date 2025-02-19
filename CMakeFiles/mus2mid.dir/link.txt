@@ -1,0 +1,1 @@
+/workspace/ccs-games-rip/emsdk/upstream/emscripten/emcc -O3 -DNDEBUG  -s USE_SDL_MIXER=2 -s USE_SDL_NET=2 -s USE_SDL=2 @CMakeFiles/mus2mid.dir/objects1.rsp -o mus2mid.js

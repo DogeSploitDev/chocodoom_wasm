@@ -1,0 +1,25 @@
+src/CMakeFiles/chocolate-strife.dir/memio.c.o: \
+  /workspace/ccs-games-rip/chocolate-doom/src/memio.c \
+  /workspace/ccs-games-rip/emsdk/upstream/emscripten/cache/sysroot/include/stdio.h \
+  /workspace/ccs-games-rip/emsdk/upstream/emscripten/cache/sysroot/include/wasi/api.h \
+  /workspace/ccs-games-rip/emsdk/upstream/lib/clang/21/include/stddef.h \
+  /workspace/ccs-games-rip/emsdk/upstream/emscripten/cache/sysroot/include/stddef.h \
+  /workspace/ccs-games-rip/emsdk/upstream/lib/clang/21/include/__stddef_header_macro.h \
+  /workspace/ccs-games-rip/emsdk/upstream/lib/clang/21/include/__stddef_ptrdiff_t.h \
+  /workspace/ccs-games-rip/emsdk/upstream/lib/clang/21/include/__stddef_size_t.h \
+  /workspace/ccs-games-rip/emsdk/upstream/lib/clang/21/include/__stddef_wchar_t.h \
+  /workspace/ccs-games-rip/emsdk/upstream/lib/clang/21/include/__stddef_null.h \
+  /workspace/ccs-games-rip/emsdk/upstream/lib/clang/21/include/__stddef_offsetof.h \
+  /workspace/ccs-games-rip/emsdk/upstream/lib/clang/21/include/stdint.h \
+  /workspace/ccs-games-rip/emsdk/upstream/emscripten/cache/sysroot/include/stdint.h \
+  /workspace/ccs-games-rip/emsdk/upstream/emscripten/cache/sysroot/include/bits/alltypes.h \
+  /workspace/ccs-games-rip/emsdk/upstream/emscripten/cache/sysroot/include/bits/stdint.h \
+  /workspace/ccs-games-rip/emsdk/upstream/emscripten/cache/sysroot/include/features.h \
+  /workspace/ccs-games-rip/emsdk/upstream/emscripten/cache/sysroot/include/compat/stdlib.h \
+  /workspace/ccs-games-rip/emsdk/upstream/emscripten/cache/sysroot/include/stdlib.h \
+  /workspace/ccs-games-rip/emsdk/upstream/emscripten/cache/sysroot/include/alloca.h \
+  /workspace/ccs-games-rip/emsdk/upstream/emscripten/cache/sysroot/include/compat/string.h \
+  /workspace/ccs-games-rip/emsdk/upstream/emscripten/cache/sysroot/include/string.h \
+  /workspace/ccs-games-rip/emsdk/upstream/emscripten/cache/sysroot/include/strings.h \
+  /workspace/ccs-games-rip/chocolate-doom/src/memio.h \
+  /workspace/ccs-games-rip/chocolate-doom/src/z_zone.h

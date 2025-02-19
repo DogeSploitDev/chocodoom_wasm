@@ -1,0 +1,1 @@
+-I"/workspace/ccs-games-rip/chocolate-doom/build/src/.." -I"/workspace/ccs-games-rip/chocolate-doom/textscreen/." -I"/workspace/ccs-games-rip/chocolate-doom/pcsound/." -I"/workspace/ccs-games-rip/chocolate-doom/opl/."
